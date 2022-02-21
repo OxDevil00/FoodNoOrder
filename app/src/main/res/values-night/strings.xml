@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_order_btn">Place Order</string>
+    <string name="todo">TODO</string>
+    <string name="you_don_t_have_favorites">You Don\'t Have Favorites</string>
+</resources>

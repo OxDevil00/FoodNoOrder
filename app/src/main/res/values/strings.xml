@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">FoodNoOrder</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_favorite">Dashboard</string>
+    <string name="title_orders">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="place_order_btn">Place Order</string>
+    <string name="todo">TODO</string>
+    <string name="you_don_t_have_favorites">You Don\'t Have Favorites</string>
+
 </resources>
